@@ -29,52 +29,65 @@ I enjoy building **real-world, impact-driven products** and have hands-on experi
 
 ## 🧰 Tech Stack
 
-### Programming Languages
-- Java
-- Python
-- Dart
-- Kotlin
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### Frontend & Mobile Development
-- Flutter
-- React
-- HTML, CSS
+### 🧠 Programming Languages
+- Java  
+- Python  
+- Dart  
+- Kotlin  
 
-### Backend & Frameworks
-- Django
+### 📱 Frontend & Mobile
+- Flutter  
+- React  
+- HTML, CSS  
 
-### Databases
-- PostgreSQL
-- Firebase Firestore
+### 🗄️ Databases
+- PostgreSQL  
+- Firebase Firestore  
 
-### Cloud & Deployment
-- AWS
-- Google Cloud Platform
-- Azure
+</td>
+<td valign="top" width="50%">
 
-### Machine Learning & Computer Vision
-- OpenCV
-- TensorFlow
-- PyTorch
-- Scikit-learn
-- Pandas
-- NumPy
+### ⚙️ Backend & Frameworks
+- Django  
 
-### DevOps & Infrastructure
-- Docker
-- Kubernetes
-- Terraform
-- Grafana
+### ☁️ Cloud & Deployment
+- AWS  
+- Google Cloud Platform  
+- Microsoft Azure  
 
-### Developer Tools
-- Git
-- GitHub
-- Postman
+### 🧪 ML & Computer Vision
+- OpenCV  
+- TensorFlow  
+- PyTorch  
+- Scikit-learn  
+- Pandas, NumPy  
 
-### Design & Productivity
-- Figma
-- Canva
+</td>
+</tr>
+</table>
 
+---
+
+### 🛠️ DevOps & Tooling
+- Docker · Kubernetes · Terraform · Grafana  
+- Git · GitHub · Postman  
+
+---
+
+### 🎨 Design & Productivity
+- Figma · Canva  
+
+---
+
+### 🧠 Core Computer Science
+- Data Structures & Algorithms  
+- Database Management Systems (DBMS)  
+- Computer Networks  
+- Software Engineering  
 
 
 
@@ -118,6 +131,14 @@ I enjoy building **real-world, impact-driven products** and have hands-on experi
 
 ## 📌 Projects
 
+### 💊 NiyatKalp – A Timely Solution for Medicines  
+*React (Expo), Firebase, OCR*
+
+- Built a platform to redistribute unused but unexpired medicines to NGOs.  
+- Implemented OCR-based expiry detection and inventory tracking.  
+- Enabled real-time donor–receiver matching with secure authentication.
+---
+  
 ### 🚆 RailEase – Railway Concession Automation  
 *Flutter, Firebase, Dart*
 
@@ -137,12 +158,21 @@ I enjoy building **real-world, impact-driven products** and have hands-on experi
 
 ---
 
-### 💊 NiyatKalp – A Timely Solution for Medicines  
-*React (Expo), Firebase, OCR*
+### 🔐 Cloud Firewall Management System
+**Tech Stack:** AWS, GCP, Azure, React, Django, Docker, Kubernetes, Grafana
 
-- Built a platform to redistribute unused but unexpired medicines to NGOs.  
-- Implemented OCR-based expiry detection and inventory tracking.  
-- Enabled real-time donor–receiver matching with secure authentication.
+- Developed a unified web-based dashboard to create, deploy, and manage firewall rules across multiple cloud platforms (AWS, GCP, and Azure), enabling centralized control over distributed cloud security configurations.
+- Implemented a scalable front-end using React and a robust Django backend, with Docker and Kubernetes used to ensure consistent deployment and orchestration across environments.
+- Integrated Grafana for real-time monitoring and visualization of firewall rule deployments, providing clear operational visibility and reducing manual configuration errors.
+
+---
+
+### 💼 FinEase – AI-Powered Autonomous Finance for Small Businesses
+**Tech Stack:** Uptic AI (No-Code Platform)
+
+- Built an AI-driven finance assistant to automate cash flow prediction and expense categorization for small businesses using no-code automation workflows.
+- Designed interactive dashboards for invoice tracking, overdue payment segmentation, and financial compliance monitoring to improve business visibility.
+- Collaborated with team members to define project scope, milestones, and feature finalization, ensuring timely delivery of a functional finance solution.
 
 ---
 
