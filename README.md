@@ -5,7 +5,7 @@
 
 📍 Mumbai, India  
 📧 **Email:** vedantsmhatre1005@gmail.com  
-🔗 **LinkedIn:** <your-link> | 🐙 **GitHub:** <your-github>
+🔗 **LinkedIn:** https://www.linkedin.com/in/vedant-mhatre-424595292/ | 🐙 **GitHub:** [<your-github>](https://github.com/VedantsMhatre)
 
 </div>
 
