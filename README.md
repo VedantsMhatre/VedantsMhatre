@@ -5,7 +5,7 @@
 
 📍 Mumbai, India  
 📧 **Email:** vedantsmhatre1005@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/vedant-mhatre-424595292/ | 🐙 **GitHub:** [<your-github>](https://github.com/VedantsMhatre)
+🔗 **LinkedIn:** https://www.linkedin.com/in/vedant-mhatre-424595292/ | 🐙 **GitHub:** <https://github.com/VedantsMhatre>
 
 </div>
 
@@ -160,5 +160,5 @@ I enjoy building **real-world, impact-driven products** and have hands-on experi
 I’m always open to **learning**, **collaboration**, and **challenging software engineering opportunities**.
 
 📫 **Email:** vedantsmhatre1005@gmail.com  
-🔗 **LinkedIn:** <your-link>  
-🐙 **GitHub:** <your-github>
+🔗 **LinkedIn:** <https://www.linkedin.com/in/vedant-mhatre-424595292/>  
+🐙 **GitHub:** <https://github.com/VedantsMhatre>
